@@ -18,3 +18,5 @@ REACH: A Python program to learn about depression that uses the following module
 4. Warning: The project takes up approximately 56.3 MB.
 
 5. The program is tested on a Mac machine. It has not been tested on other operating systems due to the constraints of time.
+
+6. This project was completed by: Phan Huy Binh.
